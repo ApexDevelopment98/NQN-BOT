@@ -4,6 +4,8 @@ Simple NQN discord bot created with discord.js version 13.
 # Info
 Node version required: `16.6.9` or above.
 Discordjs version `13.7.0`
+Main file is `ApexDev`
+
 # Getting started
 1. Download this git then unpack it.
 2. Now use `npm install` command (make sure to nodejs 16+ is installed before doing this)
