@@ -9,10 +9,9 @@ Discordjs version `13.7.0`
 2. Now use `npm install` command (make sure to nodejs 16+ is installed before doing this)
 3. Put your token into `.env` file
 4. Now run the bot using `node .` command.
-# Support
-You might know to make a discord bot it's take a lot of time and effort to code. So, if you want i keep working on new discord bots projects you can donate me at least 1 dollar.<br/>
-[Paypal me](https://paypal.me/sestro69)
+
+   <img src="https://media.discordapp.net/attachments/1293055271400247340/1399045013786202132/RASXSVH.gif?ex=688791b4&is=68864034&hm=695250ebe2d2c06d24f7b36d1d255271de3db2c5dd2e963fdffa55cad792ee1d&=&width=544&height=192"/>
 # Credit
-Creator [Sestro#4472](https://oddcoder.xyz/).<br/>
-Support server [Join us](https://discord.gg/7KtdeePrHV)<br/>
-Youtube Channel [Odd Coder](https://www.youtube.com/channel/UCwsiWQMSomXFjWWpRQbc35A) 
+Creator [Apex Development](https://discord.gg/SHDx8eybbJ).<br/>
+Support server [Join us](https://discord.gg/SHDx8eybbJ)<br/>
+Youtube Channel [Apex Development](https://www.youtube.com/channel/UCFSLarnxElNZjS4IS1tFcdA) 
